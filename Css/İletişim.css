@@ -1,0 +1,134 @@
+* {
+    margin: 3px;
+}
+
+html, body {
+    height: 100%;
+}
+body{
+    background-color: #141718;
+}
+
+hr{
+    margin-left: 15%;
+}
+
+.icons{
+    padding: 16px;
+    margin-left: 20%;
+
+}
+
+h3{
+    text-align: center;
+    color:#f99078;
+    padding: 16px;
+}
+
+.iconsText{
+    float: left;
+    margin-left: 5px;
+
+}
+
+
+#resimAlani{
+    margin-left: 65px;
+    margin-right: 80px;
+    border : 12px #141718 solid;
+    border-radius: 27px 27px 27px 27px;
+}
+
+#navigasyonAlani{
+    margin-top: 2em;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 30px;
+    height: 10px;
+    color: #f99078;
+    background-color:#1b1f20;
+    border : 12px #141718 solid;
+    border-radius: 27px 27px 27px 27px;
+}
+
+
+#icerikAlani {
+    margin-top: 2em;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding: 10px;
+    font:1em Arial, Helvetica, sans-serif;
+    border : 12px #141718 solid;
+    background-color:#1b1f20;
+    text-decoration-color: white;
+    text-align: start;
+    color: #f99078;
+    font: 25px Laksaman , sans-serif;
+    border-radius: 27px 27px 27px 27px;
+}
+
+#icerikAlani1 {
+    margin-top: 2em;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding: 10px;
+    font:1em Arial, Helvetica, sans-serif;
+    border : 12px #141718 solid;
+    background-color:#1b1f20;
+    text-decoration-color: white;
+    text-align: start;
+    color: #f99078;
+    font: 25px Laksaman , sans-serif;
+    border-radius: 27px 27px 27px 27px;
+}
+
+#icerikAlani2 {
+    margin-top: 2em;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding: 10px;
+    font:1em Arial, Helvetica, sans-serif;
+    border : 12px #141718 solid;
+    background-color:#1b1f20;
+    text-decoration-color: white;
+    text-align: start;
+    color: #f99078;
+    font: 25px Laksaman , sans-serif;
+    border-radius: 27px 27px 27px 27px;
+}
+
+
+#altAlan{
+    margin-top: 2em;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 30px;
+    text-align:center;
+    color: #f99078;
+    background-color:#1b1f20;
+    border : 12px #141718 solid;
+    border-radius: 27px 27px 27px 27px;
+    height: 3em;
+    float: bottom;
+    font: 35px Laksaman , sans-serif;
+}
+
+p{
+    text-align: center
+}
+
+nav{
+    margin-left: 30%;
+    display:table;
+    color: #f99078;
+}
+
+nav ul{
+    list-style:none;
+    float: left;}
+
+nav li a{
+    display:inline-block;
+    text-decoration: none;
+    color: #f99078;
+}
